@@ -46,10 +46,13 @@ Payment gateway integration
 Order history
 User profile management
 Admin panel for managing products, categories, and orders
+
+
+
+
 Installation:
 Clone the repository:
-bash
-Copy code
+git clone https://github.com/yourusername/ecommerce.git
 Navigate to the project directory:
 bash
 Copy code
@@ -58,15 +61,6 @@ Install dependencies:
 bash
 Copy code
 npm install
-Set up environment variables:
-Create a .env file in the root directory.
-Add the following environment variables and set their values accordingly:
-makefile
-Copy code
-PORT=3000
-MONGODB_URI=mongodb://localhost:27017/ecommerce
-SECRET_KEY=your_secret_key
-STRIPE_SECRET_KEY=your_stripe_secret_key
 Start the server:
 bash
 Copy code
