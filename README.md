@@ -52,19 +52,17 @@ Admin panel for managing products, categories, and orders
 
 Installation:
 Clone the repository:
-git clone https://github.com/yourusername/ecommerce.git
+git clone (https://github.com/karimkmsa/e-commerce.git)
+
 Navigate to the project directory:
-bash
-Copy code
 cd ecommerce
+
 Install dependencies:
-bash
-Copy code
 npm install
+
 Start the server:
-bash
-Copy code
 npm start
+
 Usage:
 User Authentication:
 Users can sign up, sign in, and sign out.
@@ -80,6 +78,8 @@ User Profile:
 Users can view and manage their profile.
 Admin Panel:
 Admins can manage products, categories, and orders through the admin panel.
+
+
 Technologies Used:
 Backend:
 Node.js
